@@ -14,3 +14,6 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+Fixed typo
+# Typo Fixed
+Fixing typo for IBM assignment
