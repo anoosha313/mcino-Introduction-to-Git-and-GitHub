@@ -1,16 +1,15 @@
-# Introduction to Git and GitHub
+# Simple Interest Calculator
 
-## Simple Interest Calculator
+### Project Description
+This project is a Simple Interest Calculator.
+Formula: SI = (Principal * Rate * Time) / 100
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+### Files in this Repository
+- `simple-interest.sh` : Calculates Simple Interest
+- `compound_interest.py` : Calculates Compound Interest
 
-```
-Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-Output
-   simple interest = p*t*r
-```
-
-_© 2022 XYZ, Inc._
+### How to Run
+1. Open terminal
+2. Run: `bash simple-interest.sh`
+3. Enter Principal, Rate and Time
+4. It will show Simple Interest
