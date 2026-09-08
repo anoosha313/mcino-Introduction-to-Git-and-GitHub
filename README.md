@@ -10,7 +10,7 @@ Output
 
    simple interest = p*t*r
 ```
-this is typo fix
+this is typo fix......
 _© 2022 XYZ, Inc._
 Fixed typo
 # Typo Fixed
